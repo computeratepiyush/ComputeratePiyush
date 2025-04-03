@@ -60,7 +60,7 @@
 </div>
 
 <!-- Guaranteed Working Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Innovative+Developer;Ethical+Technologist;Piyush+Singh;Creating+With+Purpose" alt="Professional typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Innovative+Developer;Ethical+Technologist;I'm+Piyush;Creating+With+Purpose" alt="Professional typing animation" />
 
 </div>
 
