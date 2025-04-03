@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Glass Navigation Bar with Working Styles -->
+<!-- Animated Navigation Bar -->
 <div style="
   display: flex;
   justify-content: center;
@@ -18,7 +18,8 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
-  ">About</a>
+  " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 5px 15px rgba(99, 102, 241, 0.2)'" 
+  onmouseout="this.style.transform='';this.style.boxShadow=''">About</a>
   
   <a href="#projects" style="
     padding: 10px 20px;
@@ -30,7 +31,8 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
-  ">Projects</a>
+  " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 5px 15px rgba(99, 102, 241, 0.2)'" 
+  onmouseout="this.style.transform='';this.style.boxShadow=''">Projects</a>
   
   <a href="#skills" style="
     padding: 10px 20px;
@@ -42,9 +44,10 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
-  ">Skills</a>
+  " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 5px 15px rgba(99, 102, 241, 0.2)'" 
+  onmouseout="this.style.transform='';this.style.boxShadow=''">Skills</a>
   
-  <a href="https://t.me/mocpiyush" style="
+  <a href="https://yourportfolio.com" style="
     padding: 10px 20px;
     border-radius: 12px;
     background: linear-gradient(135deg, #6366f1, #8b5cf6);
@@ -52,13 +55,12 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
-  ">Contact</a>
+  " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 5px 15px rgba(99, 102, 241, 0.4)'" 
+  onmouseout="this.style.transform='';this.style.boxShadow=''">Portfolio</a>
 </div>
 
-<!-- Professional Typing Animation -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Piyush+%7C+Developer+%26+Advocate;Building+With+Purpose" alt="Professional typing animation" />
-</h1>
+<!-- Guaranteed Working Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Innovative+Developer;Ethical+Technologist;Piyush+Singh;Creating+With+Purpose" alt="Professional typing animation" />
 
 </div>
 
@@ -74,11 +76,9 @@
   margin: 2rem 0;
 ">
 
-At just 19 years old, I've already discovered my dual passions for **cutting-edge development** and **ethical activism**. What began as lockdown coding experiments has evolved into a mission to create technology that makes a difference.
+At 19, I'm building the future while staying true to my values. My journey combines technical excellence with a commitment to ethical technology. While I explore various professional avenues during weekdays, my weekends are dedicated to passion projects that push boundaries and create impact.
 
-**Weekend Warrior**: While weekdays are dedicated to my professional growth in other domains, weekends are when I bring my most meaningful projects to life. This disciplined approach allows me to balance multiple pursuits while maintaining excellence in each.
-
-My work on [AnimalSave India](#projects) represents the perfect intersection of my technical skills and commitment to creating positive change.
+Currently focusing on backend development for my tools while exploring new opportunities at the intersection of technology and social good.
 
 </div>
 
@@ -99,9 +99,11 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
   padding: 1.5rem;
   border-radius: 12px;
   border: 1px solid rgba(99, 102, 241, 0.3);
-">
+  transition: all 0.3s ease;
+" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 10px 20px rgba(99, 102, 241, 0.1)'" 
+onmouseout="this.style.transform='';this.style.boxShadow=''">
   <h3 style="color: #8b5cf6; margin-top: 0;">AnimalSave India</h3>
-  <p>A comprehensive platform promoting compassionate living through innovative web experiences. This project combines my technical expertise with my commitment to animal welfare.</p>
+  <p>A compassionate platform promoting ethical living through innovative web experiences, combining my technical skills with activism.</p>
   <div style="margin-top: 1rem; display: flex; gap: 10px;">
     <a href="https://animalsaveindia.vercel.app" style="
       padding: 8px 16px;
@@ -110,16 +112,7 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
       border-radius: 8px;
       text-decoration: none;
       font-weight: 500;
-    ">Visit Site</a>
-    <a href="https://github.com/yourusername/animalsave" style="
-      padding: 8px 16px;
-      background: rgba(255,255,255,0.1);
-      border: 1px solid rgba(255,255,255,0.2);
-      color: white;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: 500;
-    ">View Code</a>
+    ">Visit Platform</a>
   </div>
 </div>
 
@@ -129,9 +122,11 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
   padding: 1.5rem;
   border-radius: 12px;
   border: 1px solid rgba(99, 102, 241, 0.3);
-">
+  transition: all 0.3s ease;
+" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 10px 20px rgba(99, 102, 241, 0.1)'" 
+onmouseout="this.style.transform='';this.style.boxShadow=''">
   <h3 style="color: #8b5cf6; margin-top: 0;">ImageCraft Pro</h3>
-  <p>Revolutionary image processing suite featuring a 3D interface that demonstrates my ability to push web technology boundaries.</p>
+  <p>Advanced image processing suite with 3D interface (Frontend complete, backend development in progress). Fully working authentication system implemented.</p>
   <div style="margin-top: 1rem; display: flex; gap: 10px;">
     <a href="https://imagecraft.vercel.app" style="
       padding: 8px 16px;
@@ -140,29 +135,22 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
       border-radius: 8px;
       text-decoration: none;
       font-weight: 500;
-    ">Visit Site</a>
-    <a href="https://github.com/yourusername/imagecraft" style="
-      padding: 8px 16px;
-      background: rgba(255,255,255,0.1);
-      border: 1px solid rgba(255,255,255,0.2);
-      color: white;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: 500;
-    ">View Code</a>
+    ">Explore Demo</a>
   </div>
 </div>
 
-<!-- Secret Project Card -->
+<!-- Coming Soon Card -->
 <div style="
   background: rgba(15, 23, 42, 0.3);
   padding: 1.5rem;
   border-radius: 12px;
   border: 1px dashed rgba(99, 102, 241, 0.3);
   opacity: 0.8;
-">
-  <h3 style="color: #8b5cf6; margin-top: 0;">Next Venture 🔒</h3>
-  <p>Currently developing something groundbreaking at the intersection of technology and social impact. Stay tuned for the reveal!</p>
+  transition: all 0.3s ease;
+" onmouseover="this.style.opacity='1';this.style.borderColor='rgba(99, 102, 241, 0.5)'" 
+onmouseout="this.style.opacity='0.8';this.style.borderColor='rgba(99, 102, 241, 0.3)'">
+  <h3 style="color: #8b5cf6; margin-top: 0;">Next Innovation 🔒</h3>
+  <p>Developing something transformative at the intersection of technology and social impact. Preview coming soon!</p>
   <div style="margin-top: 1rem;">
     <span style="
       padding: 8px 16px;
@@ -170,7 +158,7 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
       color: #8b5cf6;
       border-radius: 8px;
       font-weight: 500;
-    ">Coming Soon</span>
+    ">Under Development</span>
   </div>
 </div>
 
@@ -178,7 +166,7 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
 
 ---
 
-## 🛠 Technical Arsenal
+## 🛠 Technical Expertise
 
 <div align="center" style="margin: 2rem 0;">
 
@@ -186,8 +174,7 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -204,12 +191,11 @@ My work on [AnimalSave India](#projects) represents the perfect intersection of 
 
 ---
 
-## 🌟 Let's Collaborate
+## 🌟 Get In Touch
 
 <div align="center" style="margin-top: 2rem;">
 
 [![Telegram](https://img.shields.io/badge/Message_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mocpiyush)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
