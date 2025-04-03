@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush! 
+### **Vegan Activist | Web Developer**
 
-<!--
-**computeratepiyush/ComputeratePiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Building [AnimalSaveIndia](https://animalsaveindia.vercel.app)  
+💻 Passionate about **JavaScript, React, and Open Source**  
+🐄 Working to end animal cruelty through tech  
 
-Here are some ideas to get you started:
+## 🔥 My Projects
+- [AnimalSaveIndia](https://github.com/yourusername/AnimalSaveIndia) - A vegan advocacy platform  
+- [Project 2](https://github.com/yourusername/project2) - Description  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+## 🛠️ Skills
+```html
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+</div>
